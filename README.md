@@ -1,6 +1,8 @@
 GWSMaterialDrawer
 =================
 
+Soft forked from Material Drawer and uses native fragments as Material Drawer is no longer maintained.
+
 Usage
 =====
 
